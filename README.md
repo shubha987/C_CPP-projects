@@ -18,9 +18,10 @@ This repository is a compilation of projects developed using C and C++. The proj
 
 Explore the diverse range of projects included in this repository:
 
-1. **Project 1**: *Description of Project 1.*
+1. **Billing System**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
-   ![Project 1 Screenshot](/screenshots/project1.png)
+   ![Billing-system](https://github.com/shubha987/C_CPP-projects/assets/116547779/380c4748-d188-4de9-bf3f-7638e24ae688)
+
 
 2. **Project 2**: *Description of Project 2.*
 
@@ -30,7 +31,6 @@ Explore the diverse range of projects included in this repository:
 
    ![Project 3 Screenshot](/screenshots/project3.png)
 
-   ...
 
 Feel free to browse through the projects and find something that interests you!
 
