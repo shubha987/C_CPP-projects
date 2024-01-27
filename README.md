@@ -38,7 +38,7 @@ Explore the diverse range of projects included in this repository:
 
 5. **Online-Shopping**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
-  ![online-shopping](https://github.com/shubha987/C_CPP-projects/assets/116547779/c7c6319a-dd35-40d1-a394-87ee705768b0)
+    ![online-shopping](https://github.com/shubha987/C_CPP-projects/assets/116547779/c7c6319a-dd35-40d1-a394-87ee705768b0)
 
 6. **Quiz-Game**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
