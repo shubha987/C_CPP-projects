@@ -26,7 +26,7 @@ Explore the diverse range of projects included in this repository:
 
 2. **Calculator**: This calculator is based on c++ and c implementation and this can handle the edge cases of basic calculatoion 
  
-       ![calculator](https://github.com/shubha987/C_CPP-projects/assets/116547779/aa270b65-c378-472d-a627-b7b802f24f25)
+    ![calculator](https://github.com/shubha987/C_CPP-projects/assets/116547779/aa270b65-c378-472d-a627-b7b802f24f25)
 
 3. **Currency Converter**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
