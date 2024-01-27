@@ -25,8 +25,9 @@ Explore the diverse range of projects included in this repository:
    ![Billing-system](https://github.com/shubha987/C_CPP-projects/assets/116547779/380c4748-d188-4de9-bf3f-7638e24ae688)
 
 2. **Calculator**: This calculator is based on c++ and c implementation and this can handle the edge cases of basic calculatoion 
+ 
+       ![calculator](https://github.com/shubha987/C_CPP-projects/assets/116547779/aa270b65-c378-472d-a627-b7b802f24f25)
 
-  
 3. **Currency Converter**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
 4. **Library-Management-System**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
@@ -37,6 +38,7 @@ Explore the diverse range of projects included in this repository:
   
 6. **Quiz-Game**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
+    ![quiz-game](https://github.com/shubha987/C_CPP-projects/assets/116547779/18a78cdd-e6c2-475e-abd1-38991557f1f0)
 
 Feel free to browse through the projects and find something that interests you!
 
