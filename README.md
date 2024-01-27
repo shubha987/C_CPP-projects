@@ -46,3 +46,16 @@ To get started with any project:
 
    ```bash
    git clone https://github.com/shubha987/C_CPP-projects.git
+
+2. Navigate to the specific project directory:
+
+    ```bash
+    cd C_CPP-projects/Project_X
+
+3. Follow the project-specific instructions in the README file to set up and run the project.
+
+## Contributing
+Contributions are welcome! If you have a C or C++ project that you'd like to share or if you find ways to improve existing projects, feel free to open an issue or submit a pull request. Please follow the Contribution Guidelines for more details.
+
+## License
+This repository is licensed under the GNU General Public License v3.0 License. Feel free to use the code for educational purposes or contribute to its development.
