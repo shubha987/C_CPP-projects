@@ -28,14 +28,18 @@ Explore the diverse range of projects included in this repository:
  
     ![calculator](https://github.com/shubha987/C_CPP-projects/assets/116547779/aa270b65-c378-472d-a627-b7b802f24f25)
 
-3. **Currency Converter**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
-
-4. **Library-Management-System**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
-
+3. **Currency Converter**: This converter system is based on c++ and c implementation and this System takes one currency and convert them to your preference currency.
    
+    ![currency-converter](https://github.com/shubha987/C_CPP-projects/assets/116547779/bd73d317-0e31-4426-994f-65fd48c7ae84)
+
+4. **Library-Management-System**: This system is based on c++ and c implementation and this System takes student Id, Book name and make a list of books taken.
+
+    ![library-management-system](https://github.com/shubha987/C_CPP-projects/assets/116547779/3019e877-c455-460c-956e-1cba6c73f436)
+
 5. **Online-Shopping**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
-  
+  ![online-shopping](https://github.com/shubha987/C_CPP-projects/assets/116547779/c7c6319a-dd35-40d1-a394-87ee705768b0)
+
 6. **Quiz-Game**: This system is based on c++ and c implementation and this System takes order and create a perfect bill for the customer.
 
     ![quiz-game](https://github.com/shubha987/C_CPP-projects/assets/116547779/18a78cdd-e6c2-475e-abd1-38991557f1f0)
