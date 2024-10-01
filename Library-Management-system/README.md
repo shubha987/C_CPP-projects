@@ -12,21 +12,17 @@ Welcome to the Library Management System project! This C++ program is designed t
 
 ## How to Use
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/shubha987/C_CPP-projects.git
-
-2. **Navigate to the Library-Management-System Directory:**
+1. **Navigate to the Library-Management-System Directory:**
    ```bash
    cd C_CPP-projects/Library-Management-System
 
-3. **Compile the Code:**
+2. **Compile the Code:**
    ```bash
    g++ libsystem.cpp -o libsystem
 
-4. **Run the Program:**
+3. **Run the Program:**
    ```bash
    ./libsystem
 
-5. **Follow On-Screen Instructions:**
+4. **Follow On-Screen Instructions:**
 Use the on-screen prompts for getting the details of the book and the borrower.
